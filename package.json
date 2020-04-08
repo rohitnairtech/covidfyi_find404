@@ -1,0 +1,27 @@
+{
+  "name": "find404",
+  "version": "1.0.0",
+  "description": "To find PDF is available on icmr or not",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitnairtech/covidfyi_find404.git"
+  },
+  "keywords": [
+    "find404",
+    "covidfyi.in"
+  ],
+  "author": "Rohit Nair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitnairtech/covidfyi_find404/issues"
+  },
+  "homepage": "https://github.com/rohitnairtech/covidfyi_find404#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "https": "^1.0.0"
+  }
+}
